@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/prospect" mode="merge"/>
+    <filter root="/content/prospect" mode="merge"/>
+    <filter root="/content/dam/prospect/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/prospect" mode="merge"/>
+</workspaceFilter>
